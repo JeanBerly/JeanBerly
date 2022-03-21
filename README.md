@@ -3,8 +3,10 @@
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeanBerly&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanBerly&layout=compact&langs_count=7&theme=dark"/>
 </div>
+</a>
+
 ### About Me
-  <p>My name is Jean Berly and I am living in Belo Horizonte, Minas Gerais.</p>
+  <p>My name is Jean Berly and I am currently living in Belo Horizonte, Minas Gerais.</p>
 <!--
 **JeanBerly/JeanBerly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
